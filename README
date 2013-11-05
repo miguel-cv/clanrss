@@ -1,0 +1,6 @@
+Clan RSS
+--------
+
+Genera un xml para usar como feed RSS con las series de Clan RTVE y dentro de cada serie 
+incluye la dirección a los archivos mp4 con los videos.
+Sirve, por ejemplo, para poner en serviio como "online RSS feed".
